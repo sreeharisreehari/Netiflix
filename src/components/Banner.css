@@ -1,0 +1,24 @@
+.banner-content{
+    padding-left: 3rem;
+    padding-top: 300px;
+    width: 45rem;
+}
+.banner-content h1{
+    font-size: 3.5rem;
+}
+.banner-content h2{
+    font-size: 1.5rem;
+    margin-top: 10px;
+}
+*{
+    color: aliceblue;
+}
+.btn{
+    background-color: red;
+    border-radius: 10px;
+    border: 1px;
+    padding: 10px;
+    width: 20%;
+    
+
+}
